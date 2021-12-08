@@ -1,5 +1,7 @@
 # A simple UNIX command interpreter.
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.cyberciti.biz%2Ftips%2Fwp-content%2Fuploads%2F2005%2F11%2FFind-out-what-shell-I-am-using-on-Linux-or-Unix.png&imgrefurl=https%3A%2F%2Fwww.cyberciti.biz%2Ftips%2Fhow-do-i-find-out-what-shell-im-using.html&tbnid=ir1VhtbqYz1r7M&vet=12ahUKEwin8NOekdX0AhVDPhoKHZlyBhoQMygDegUIARC7AQ..i&docid=xRJutR9sy6t-YM&w=599&h=378&itg=1&q=unix%20shell&client=opera-gx&ved=2ahUKEwin8NOekdX0AhVDPhoKHZlyBhoQMygDegUIARC7AQ)
+
+![](https://user.oc-static.com/files/160001_161000/160278.png)
+
 # Requirements
 #### General
 - Allowed editors: vi, vim, emacs
