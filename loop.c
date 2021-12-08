@@ -13,7 +13,7 @@ void _loop(void)
         if (isatty(STDIN_FILENO))
         {
                 do {
-                write(1, "> ", 2);
+                write(1, "$ ", 2);
                 line = cmd_read_line();
                 cmd_store(line);
                 args = cmd_split_line(line);
