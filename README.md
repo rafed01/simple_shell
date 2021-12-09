@@ -51,6 +51,6 @@ write (man 2 write)
 
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
 # This project was made by
-Mouhamed Rafed Riahi (rafedriahi.rr@gmail.com)
-Mouhamed Amine Houiji(amine.houiji20@gmail.com)
-Haythem Abidi(haythem.abidi@icloud.com)
+- Mouhamed Rafed Riahi (rafedriahi.rr@gmail.com)
+- Mouhamed Amine Houiji(amine.houiji20@gmail.com)
+- Haythem Abidi(haythem.abidi@icloud.com)
